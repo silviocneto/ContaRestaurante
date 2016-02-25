@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BAR5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Preco_item_cardapio">PREÇO(R$)</string>
+    <string name="Nome_item_cardapio">NOME</string>
+    <string name="Additembutton">ADD</string>
+    <string name="cadastra_item_button">Add</string>
+    <string name="preco_item_EditText">PREÇO</string>
+    <string name="nome_item_EditText">NOME</string>
+    <string name="title_activity_mostra_cardapio">Cardapio</string>
+    <string name="title_activity_mostra_integrante">Participantes</string>
+    <string name="title_activity_cadastra_cardapio">Adicionar Item</string>
+    <string name="title_activity_cadastra_integrante">Adicionar Participante</string>
+    <string name="title_activity_menu">Menu Principal</string>
+    <string name="title_activity_pedidos">Fazer Pedido</string>
+    <string name="Addparticipantebutton">ADD</string>
+    <string name="name_EditText">NOME</string>
+    <string name="cadastra_integrante_button">ADD</string>
+    <string name="gocardapio">CARDAPIO</string>
+    <string name="gointegrantes">INTEGRANTES</string>
+    <string name="gopedidos">FAZER PEDIDO</string>
+    <string name="goconta">CONTA</string>
+    <string name="escolher_pedido">ESCOLHA O ITEM</string>
+    <string name="quem_vai_consumir">QUEM VAI CONSUMIR?</string>
+    <string name="fazerpedido_button"> SALVAR PEDIDO</string>
+    <string name="title_activity_conta">CONTA</string>
+    <string-array name="databases">
+        <item>idpedido</item>
+        <item>id</item>
+    </string-array>
+
+</resources>
